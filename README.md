@@ -1,4 +1,4 @@
-# Bachelor Thesis Project: EEG Data Analysis with CHB-MIT Dataset
+# Bachelor Thesis Project: AI-Powered Seizure Prediction with CHB-MIT Dataset
 Supervisor: Dr. Golnaz Baghdadi
 #### *In Progress!!*
 
